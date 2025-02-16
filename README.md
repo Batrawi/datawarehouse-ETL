@@ -33,7 +33,7 @@ The Mustaalem ETL process is responsible for extracting, transforming, and loadi
 📌 **Goal:** Load structured data into **Amazon RDS** for application use.
 
 **🛠️ Tools & Technologies:**
-- **Amazon RDS (PostgreSQL/MySQL)** → Final structured database.
+- **Amazon RDS (PostgreSQL)** → Final structured database.
 - **SQLAlchemy (Python)** → Insert data into RDS.
 - **AWS Lambda** → Automate data loading.
 
